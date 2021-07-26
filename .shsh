@@ -1,5 +1,5 @@
 #!/bin/bash
-# REV02: Sun 25 Jul 2021 20:10:00 WIB
+# REV02: Mon 26 Jul 2021 10:42:34 WIB
 # START: Tue Dec 25 10:54:23 WIB 2018
 
 # Copyright (C) 2018-2020 Rahmat M. Samik-Ibrahim http://RahmatM.Samik-Ibrahim.vLSM.org/
@@ -7,7 +7,7 @@
 # that it will be useful, but WITHOUT ANY WARRANTY; without even the implied 
 # warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
-YEAR="1944"
+YEAR="2019"
 
 function mkidx {
     cd $1

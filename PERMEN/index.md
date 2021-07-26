@@ -1,7 +1,7 @@
 ---
 layout: "layout"
 ---
-# 1944
+# 2019
 * [AGAMA](AGAMA/)
 * [DAG](DAG/)
 * [DAGRI](DAGRI/)
@@ -9,8 +9,10 @@ layout: "layout"
 * [ESDM](ESDM/)
 * [HAN](HAN/)
 * [KES](KES/)
-* [KEUKP](KEUKP/)
-* [KOMINFOKUKM](KOMINFOKUKM/)
+* [KEU](KEU/)
+* [KOMINFO](KOMINFO/)
+* [KP](KP/)
+* [KUKM](KUKM/)
 * [KUMHAM](KUMHAM/)
 * [LHK](LHK/)
 * [LU](LU/)

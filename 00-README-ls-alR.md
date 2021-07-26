@@ -3,7 +3,7 @@ layout: "layout"
 ---
 
 <br>
-# 1944
+# 2019
 ```
 .:
 00-README-ls-alR.md
@@ -166,8 +166,10 @@ ESDM
 HAN
 index.md
 KES
-KEUKP
-KOMINFOKUKM
+KEU
+KOMINFO
+KP
+KUKM
 KUMHAM
 LHK
 LU
@@ -198,10 +200,16 @@ index.md
 ./PERMEN/KES:
 index.md
 
-./PERMEN/KEUKP:
+./PERMEN/KEU:
 index.md
 
-./PERMEN/KOMINFOKUKM:
+./PERMEN/KOMINFO:
+index.md
+
+./PERMEN/KP:
+index.md
+
+./PERMEN/KUKM:
 index.md
 
 ./PERMEN/KUMHAM:
@@ -402,8 +410,10 @@ ESDM
 HAN
 index.html
 KES
-KEUKP
-KOMINFOKUKM
+KEU
+KOMINFO
+KP
+KUKM
 KUMHAM
 LHK
 LU
@@ -434,10 +444,16 @@ index.html
 ./_site/PERMEN/KES:
 index.html
 
-./_site/PERMEN/KEUKP:
+./_site/PERMEN/KEU:
 index.html
 
-./_site/PERMEN/KOMINFOKUKM:
+./_site/PERMEN/KOMINFO:
+index.html
+
+./_site/PERMEN/KP:
+index.html
+
+./_site/PERMEN/KUKM:
 index.html
 
 ./_site/PERMEN/KUMHAM:
