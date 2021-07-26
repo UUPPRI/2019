@@ -187,6 +187,7 @@ index.md
 
 ./PERMEN/DAGRI:
 index.md
+PERMEN-DAGRI-2019-007-PELAYANAN-ADMINISTRASI-KEPENDUDUKANSECARA-DARING.pdf
 
 ./PERMEN/DIKBUD:
 index.md
@@ -211,6 +212,7 @@ index.md
 
 ./PERMEN/KUKM:
 index.md
+PERMEN-KUKM-2019-002-PERIZINAN-BERUSAHA-TERINTEGRASI-SECARA-ELEKTRONIK-BAGI-USAHA-MIKRO-DAN-KECIL.pdf
 
 ./PERMEN/KUMHAM:
 index.md
@@ -257,6 +259,8 @@ index.md
 
 ./PERPRES:
 index.md
+PERPRES-2019-062-PENGGUNAAN-BAHASA-INDONESIA.pdf
+PERPRES-2019-082-KEMENTERIAN-PENDIDIKAN-DAN-KEBUDAYAAN.pdf
 
 ./PERPU:
 index.md
@@ -431,6 +435,7 @@ index.html
 
 ./_site/PERMEN/DAGRI:
 index.html
+PERMEN-DAGRI-2019-007-PELAYANAN-ADMINISTRASI-KEPENDUDUKANSECARA-DARING.pdf
 
 ./_site/PERMEN/DIKBUD:
 index.html
@@ -455,6 +460,7 @@ index.html
 
 ./_site/PERMEN/KUKM:
 index.html
+PERMEN-KUKM-2019-002-PERIZINAN-BERUSAHA-TERINTEGRASI-SECARA-ELEKTRONIK-BAGI-USAHA-MIKRO-DAN-KECIL.pdf
 
 ./_site/PERMEN/KUMHAM:
 index.html
@@ -501,6 +507,8 @@ index.html
 
 ./_site/PERPRES:
 index.html
+PERPRES-2019-062-PENGGUNAAN-BAHASA-INDONESIA.pdf
+PERPRES-2019-082-KEMENTERIAN-PENDIDIKAN-DAN-KEBUDAYAAN.pdf
 
 ./_site/PERPU:
 index.html
@@ -533,12 +541,16 @@ index.html
 
 ./_site/UI/rektor:
 index.html
+UI-PR-2019-0003-Jenis-dan-tarif-parkir-UI.pdf
+UI-SKR-2019-2622-Struktur-Organisasi-Universitas-Indonesia.pdf
 
 ./_site/UI/sau:
 index.html
 
 ./_site/UU:
 index.html
+UU-2019-015-Perubahan-UU-2011-012-tentang-PEMBENTUKAN-PERATURAN-PERUNDANG-UNDANGAN.pdf
+UU-2019-016-Perubahan-UU-1974-001-tentang-Perkawinan.pdf
 
 ./SKB:
 index.md
@@ -562,10 +574,14 @@ index.md
 
 ./UI/rektor:
 index.md
+UI-PR-2019-0003-Jenis-dan-tarif-parkir-UI.pdf
+UI-SKR-2019-2622-Struktur-Organisasi-Universitas-Indonesia.pdf
 
 ./UI/sau:
 index.md
 
 ./UU:
 index.md
+UU-2019-015-Perubahan-UU-2011-012-tentang-PEMBENTUKAN-PERATURAN-PERUNDANG-UNDANGAN.pdf
+UU-2019-016-Perubahan-UU-1974-001-tentang-Perkawinan.pdf
 ```
