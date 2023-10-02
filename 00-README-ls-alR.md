@@ -19,6 +19,7 @@ IDX
 _includes
 index.md
 INPRES
+KEPDIRJEN
 KEPMEN
 KEPMENKO
 KEPPRES
@@ -80,6 +81,9 @@ navbar-top.html
 scripts.html
 
 ./INPRES:
+index.md
+
+./KEPDIRJEN:
 index.md
 
 ./KEPMEN:
@@ -287,6 +291,7 @@ favicon.ico
 IDX
 index.html
 INPRES
+KEPDIRJEN
 KEPMEN
 KEPMENKO
 KEPPRES
@@ -338,6 +343,9 @@ index.html
 index.html
 
 ./_site/INPRES:
+index.html
+
+./_site/KEPDIRJEN:
 index.html
 
 ./_site/KEPMEN:
